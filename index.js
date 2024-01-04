@@ -1,7 +1,7 @@
-let who = ['The dog', 'My grandma', 'His turtle', 'My bird'];
-let action = ['ate', 'peed', 'crushed', 'broke'];
-let what = ['my homework', 'the keys', 'the car'];
-let when = ['before the class', 'right on time', 'when I finished', 'during my lunch', 'while I was praying'];
+let who = ['mi perro', 'Mi polola', 'el zeus', 'Mi mama'];
+let action = ['comio', 'pirde', 'cruzo', 'rompio'];
+let what = ['mi tarea', 'las llaves', 'la calle'];
+let when = ['antes de clases', 'todo el tiempo', 'solo', 'durante el almuerzo', 'despues del cine'];
 
 function excuses( who, action, what, when){
     let quien = Math.floor(Math.random() * who.length);
